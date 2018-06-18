@@ -6,7 +6,12 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="bogdan.murguly@tremend.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mGooby/MavSenTemplate" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="C:\JavaProjects" />
   </component>
 </application>
